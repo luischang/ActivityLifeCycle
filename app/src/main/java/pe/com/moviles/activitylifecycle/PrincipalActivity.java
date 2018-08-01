@@ -6,6 +6,7 @@ import android.util.Log;
 
 public class PrincipalActivity extends AppCompatActivity {
     //    TODO 1: Crear constante con el nombre de la actividad
+    // nuevo comentario
     final String TAG = "PrincipalActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
